@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of NutriAI - Seu Diário Nutricional Inteligente",
+  "description": "Um aplicativo nutricional completo para acompanhar sua dieta com precisão. Use a análise de fotos por IA, tabelas TACO/IBGE e cálculos de metas para atingir seus objetivos de saúde. Criado em PT-BR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
